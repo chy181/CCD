@@ -1,6 +1,6 @@
 
 
-# <img src="figures/CCD.png" alt="Image description" style="width:45px;height:45px;margin-bottom:-7px"> CCD: Capturing Cross Correlations with Deformable Convolutional Networks for Multivariate Time Series Forecasting
+# <img src="figures/CCD.png" alt="Image description" style="margin-bottom:-7px; width:45px;height:45px；"> CCD: Capturing Cross Correlations with Deformable Convolutional Networks for Multivariate Time Series Forecasting
 
 
 This code is the official PyTorch implementation of paper: CCD: Capturing Cross Correlations with Deformable Convolutional Networks for Multivariate Time Series Forecasting
@@ -13,7 +13,7 @@ eral framework called **CCD**, which Capturing **C**ross **C**orrelations
 with **D**eformable convolutional networks for multivariate time
 series Forecasting. First, we design *Adaptive 2-Dimensions Shuffle*,
 which adaptively reorders the rows and columns of the image-like
-structures, grouping potentially dependent patches to establish lo-
+structures, grouping potentially dependent patches to establish lo
 cal continuity. Second, we propose *Cross Deformable Convolution*,
 which is enhanced by *Non-uniform Cross-Extension initialization*
 and *Dynamic mask-based modulation*. Collectively, these designs
