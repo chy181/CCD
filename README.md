@@ -1,10 +1,16 @@
 
 
 
-<h1>
-    <img src="figures/CCD.png" alt="Image description" style="width: 40px; height: 40px;vertical-align: bottom; margin-right: 5px;">
-    <span>CCD: Capturing Cross Correlations with Deformable Convolutional Networks for Multivariate Time Series Forecasting</span>
-</h1>
+<table>
+  <tr>
+    <td width="55" valign="top">
+      <img src="figures/CCD.png" alt="Image description" width="45">
+    </td>
+    <td valign="top">
+      <h1>CCD: Capturing Cross Correlations with Deformable Convolutional Networks for Multivariate Time Series Forecasting</h1>
+    </td>
+  </tr>
+</table>
 
 
 This code is the official PyTorch implementation of paper: CCD: Capturing Cross Correlations with Deformable Convolutional Networks for Multivariate Time Series Forecasting
